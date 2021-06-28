@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sudhit2001
+- 💻 I'm a tech enthusiast
 - 👀 I’m interested in Development and Designing
 - 🌱 I’m currently learning Web development and Video editing
 - 💞️ I’m looking to collaborate on ...
